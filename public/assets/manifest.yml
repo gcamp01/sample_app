@@ -1,0 +1,21 @@
+---
+plugins/buttons/icons/cross.png: plugins/buttons/icons/cross.png
+plugins/buttons/icons/key.png: plugins/buttons/icons/key.png
+plugins/buttons/icons/tick.png: plugins/buttons/icons/tick.png
+plugins/buttons/readme.txt: plugins/buttons/readme.txt
+plugins/fancy-type/readme.txt: plugins/fancy-type/readme.txt
+plugins/link-icons/icons/doc.png: plugins/link-icons/icons/doc.png
+plugins/link-icons/icons/email.png: plugins/link-icons/icons/email.png
+plugins/link-icons/icons/external.png: plugins/link-icons/icons/external.png
+plugins/link-icons/icons/feed.png: plugins/link-icons/icons/feed.png
+plugins/link-icons/icons/im.png: plugins/link-icons/icons/im.png
+plugins/link-icons/icons/lock.png: plugins/link-icons/icons/lock.png
+plugins/link-icons/icons/pdf.png: plugins/link-icons/icons/pdf.png
+plugins/link-icons/icons/visited.png: plugins/link-icons/icons/visited.png
+plugins/link-icons/icons/xls.png: plugins/link-icons/icons/xls.png
+plugins/link-icons/readme.txt: plugins/link-icons/readme.txt
+plugins/rtl/readme.txt: plugins/rtl/readme.txt
+src/grid.png: src/grid.png
+rails.png: rails.png
+application.js: application.js
+application.css: application.css
